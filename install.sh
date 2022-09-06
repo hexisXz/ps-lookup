@@ -1,4 +1,4 @@
-!#/usr/bin/env bash
+!#/bin bash
 
 
 echo "would you like to install ps-lookup (y/n)"
