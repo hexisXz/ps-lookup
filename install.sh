@@ -8,7 +8,7 @@ read r
 
 if [ $r == "y" ]; then
        echo "installing . . ."
-       git clone https://github.com/hexisXz/ps-lookup.git && mv ~/ps-lookup/ps-lookup ~/ && sudo mv ps-lookup /usr/bin && chmod +x /bin/ps-lookup
+       git clone https://github.com/hexisXz/ps-lookup.git && mv ~/ps-lookup ~/ps-lookup- && sudo mv ps-lookup-/ps-lookup /bin && chmod +x /bin/ps-lookup
       
  
 fi
