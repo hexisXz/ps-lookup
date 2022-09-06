@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+
+# displaying text on the screen then reading user input
+echo "enter the process you want to view."
+read e && echo "------------------------" && echo "     R E S U L T S"
+echo "------------------------"
+
+# main code
+ps -eF | awk -F ' ' '{print $11}' | grep $e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
