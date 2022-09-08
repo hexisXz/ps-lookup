@@ -1,6 +1,14 @@
 !#/bin bash
 
 
+##################################
+# C R E A T E D   BY   H E X I S #
+##################################
+
+
+
+
+
 echo "would you like to install ps-lookup (y/n)"
 
 
