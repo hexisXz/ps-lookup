@@ -24,7 +24,7 @@ fi
 
 
 if [ $r == "n" ]; then
-	echo "exiting.."
+	echo "exiting..."
         exit
 
 fi
