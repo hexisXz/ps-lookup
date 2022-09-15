@@ -14,9 +14,9 @@ if [ whiptail --title "install" --yesno "would you like to install ps-lookup?" 1
 	 echo "installing . . ."
          git clone https://github.com/hexisXz/ps-lookup.git && mv ~/ps-lookup ~/ps-lookup- && sudo mv ps-lookup-/ps-lookup /bin && chmod +x /bin/ps-lookup
 else
-        exit
+   exit
 
-
+fi
 
 
 
