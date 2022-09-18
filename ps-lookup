@@ -8,6 +8,14 @@
 
 
 
+
+
+
+
+
+
+
+
 # reading user input then displaying text on the screen.
 echo "enter the process you want to view."
 read e && echo "------------------------" && echo "     R E S U L T S"
