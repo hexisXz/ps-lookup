@@ -10,4 +10,6 @@ if (whiptail --title "install" --yesno "do you want to install ps-lookup?" 10 60
 else
    exit 1
 
+fi
+
 
