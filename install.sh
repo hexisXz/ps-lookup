@@ -1,4 +1,4 @@
-!#/usr/bin/env bash
+!#/bin/bash
 
 #########
 # V 1.0 #
