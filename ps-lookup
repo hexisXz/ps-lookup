@@ -17,8 +17,7 @@ read e && echo "------------------------" && echo "     R E S U L T S"
 echo "------------------------"
 
 # main code
-ps -eF | awk -F ' ' '{print $11}' | grep -i $e
-
+ps -eF | awk -F ' ' '{print $11}' | grep -i $e && echo "Done"
 
 
 
