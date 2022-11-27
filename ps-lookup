@@ -18,10 +18,3 @@ echo "------------------------"
 
 # main code
 ps -eF | awk -F ' ' '{print $11}' | grep -i $e && echo "Done"
-
-
-
-
-
-
-
