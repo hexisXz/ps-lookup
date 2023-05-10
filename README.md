@@ -1,5 +1,5 @@
 # how to install 
 
-just copy bash -c "$(curl -fsSL https://raw.githubusercontent.com/hexisXz/ps-lookup/main/install.sh || wget -q https://raw.githubusercontent.com/hexisXz/ps-lookup/main/install.sh -o -)"
+just copy curl -L -O "https://raw.githubusercontent.com/hexisXz/ps-lookup/main/install.sh" && bash install.sh
 
 and paste that in your terminal.
