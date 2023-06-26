@@ -1,0 +1,7 @@
+* how to install 
+
+*** just copy 
+
+#+BEGIN_SRC bash
+curl -L -O "https://raw.githubusercontent.com/hexisXz/ps-lookup/main/install.sh" && bash install.sh
+#+END_src
